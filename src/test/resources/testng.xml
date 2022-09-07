@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<suite name="Suite1"
+       thread-count="3"
+       parallel="methods">
+  <test name="exampletest1">
+	<classes>
+		<class name = "FirstTest.TrevTestNG.suites.SampleSuiteITest"></class>
+	</classes>
+  </test>
+</suite>

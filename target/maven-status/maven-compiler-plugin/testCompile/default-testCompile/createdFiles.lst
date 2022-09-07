@@ -1,0 +1,5 @@
+framework\ElementManager.class
+FirstTest\TrevTestNG\pages\GoogleHomePage.class
+FirstTest\TrevTestNG\pages\GoogleSearchResultsPage.class
+framework\DriverManager.class
+FirstTest\TrevTestNG\suites\SampleSuiteITest.class
